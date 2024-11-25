@@ -26,7 +26,7 @@ This is a simple **To-Do List** application built using Python's `tkinter` libra
 2. Run the script:
    ```bash
    python todo_list.py
-![screenshort](Assest/toodolist1.png)
-![acreenshort2](Assest/toodolist2.png)
+![screenshort](Assets/toodolist1.png)
+![acreenshort2](Assets/toodolist2.png)
 
 ---
